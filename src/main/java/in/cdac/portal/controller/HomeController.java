@@ -333,6 +333,7 @@ public class HomeController {
 		}
 	}
 
+//	this code was for downloading iso file
 	
 //	@GetMapping(value = "/downloadFile", produces="application/zip")
 //	public void zipDownload(HttpServletResponse response) throws IOException {
